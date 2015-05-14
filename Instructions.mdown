@@ -16,4 +16,6 @@ Extra Credit
 ============
 
 * Use matplotlib and numpy to create a bar chart that shows server types (y axis) and the number of occurrences (x-axis).
+* See servers.png as an example output chart.
+
 
