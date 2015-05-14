@@ -1,10 +1,10 @@
 Instructions
 ============
 
-# You must post your solution to github within 2 hours of receiving this email.
+# You must post your solution to github within 3 hours of receiving this email.
 # If you have any uncertainties about the instructions you may improvise, provided that you explain the issues within a README file.
 
-# Use the responses and progressbar Python libraries
+# Use the requests and progressbar Python libraries
 # Write a script that retrieves <n> number of random websites. <n> is the only command-line argument to the script.
 # Choose random sites from the random_sites.txt file.
 # Because this may take some time, display a progress bar that shows percentage complete and estimated time remaining, while fetching the sites.
